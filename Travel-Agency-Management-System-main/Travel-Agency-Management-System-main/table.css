@@ -1,0 +1,58 @@
+.table-container{
+    height: 40%;
+}
+
+.table{
+    width: 33%;
+ 
+    
+}
+#table1{
+    position: absolute;
+    top: 80px;
+    left: 0;
+
+}
+#table2{
+    position: absolute;
+    top: 80px;
+    left: 33.5%;
+} 
+#table3{ 
+    position: absolute;
+    top: 80px;
+    left: 67%;
+}
+.form-container{
+    width: 100%;
+    position: absolute;
+    top: 65%;
+}
+
+.form{
+    width: 60%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    opacity: 0.85;
+}
+
+.btn{
+    width: 80%;
+    margin-left: 10%;;
+    border-color: white;
+    color: white;
+    
+}
+
+.link{
+    color: white;
+     
+}
+
+
+.container-fluid{
+    z-index: 2;
+}

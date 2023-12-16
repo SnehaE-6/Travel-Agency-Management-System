@@ -1,0 +1,50 @@
+
+.form{
+    width: 60%;
+    margin: auto;
+    position: relative;
+    top: 45px;
+    border: 1px solid black;
+    padding: 15px;
+    
+    
+     background-color: black;
+            opacity: 0.85;
+            color: white;
+
+}
+.btn{
+    width: 90%; 
+    position: relative;
+    left: 40px;
+    
+}
+
+.link{
+    color: white;
+    text-decoration: none
+}
+h2{
+    text-align: center;
+}
+.nav-link,.navbar-brand{
+    color: white;
+}
+
+
+.readonly{
+    background-color: #161c2d;
+    color: white;
+    border: 0;
+}
+
+
+.navbar{
+    opacity: 0.8;
+}
+
+.train{
+    position: absolute;
+    top: 10%; 
+    left: 28%;
+}

@@ -1,0 +1,21 @@
+.form{
+    width: 80%;
+    margin:100px auto 30px auto;
+    border: 1px solid black;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    opacity: 0.85;
+}   
+.btn{
+    width: 80%;
+    margin-left: 10%;;
+    border-color: white;
+    color: white;
+}  
+
+.table{
+    width:80%; 
+        margin:30px auto 30px auto;
+
+} 

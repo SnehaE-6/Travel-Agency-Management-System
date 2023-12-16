@@ -1,0 +1,12 @@
+/*STYLING FOR CONTACT US PAGE*/
+.card{
+    width: 700px;
+    margin: 10 auto 30 auto;   
+    background-color: black;
+    opacity: 0.8;
+    color: white;
+}
+
+.cards{
+margin-top: 150px;
+}     
